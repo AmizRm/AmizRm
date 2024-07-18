@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on [lcbud](https://github.com/AmizRm/lcbud)
-- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20px" />
+- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" />
 
 <!--
 **AmizRm/AmizRm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,40 +1,14 @@
-<h2 align="left">Hi 👋! I'm Amir.</h2>
+# 💫 About Me:
+Hello, there! 👋<br>I'm Amir, an enthusiastic developer with a passion for coding and exploring new technologies.<br>Here, you'll find a collection of my projects and contributions.
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmizRm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AmizRm&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/amizr.ir) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zWKbSrzVDA) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amiz__r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Amiz__R) 
 
-###
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<img align="right" height="150" src="https://media1.tenor.com/m/fraRGD3luZ4AAAAC/precure-precure-wave.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://discord.com/users/519572838504464394" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AmizRm/AmizRm/output/snake.svg" alt="Snake animation" />
-
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amizrm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amizrm&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amizrm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
